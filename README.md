@@ -1,9 +1,5 @@
 # 스케일카 기반 자율주행 경진대회
 
-2023년 하계 혁신융합대학 스케일카 기반 자율주행 경진대회
-
-[대회 공지 링크](https://coss.kookmin.ac.kr/fvedu/community/notice.do?mode=view&articleNo=5904366&article.offset=10&articleLimit=10)
-
 ## 📺 시연 영상
 
 추후 업로드
